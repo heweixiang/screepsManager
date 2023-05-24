@@ -1,0 +1,38 @@
+{
+      "name": "code",
+      "version": "1.0.0",
+      "description": "",
+      "main": "app.js",
+      "dependencies": {
+            "body-parser": "^1.19.0",
+            "cookie-parser": "^1.4.5",
+            "crypto": "^1.0.1",
+            "express": "^4.17.1",
+            "express-session": "^1.17.1",
+            "cors": "^2.8.5",
+            "formidable": "^1.2.2",
+            "fs": "0.0.1-security",
+            "geoip-lite": "^1.4.2",
+            "jwt-simple": "^0.5.6",
+            "md5-node": "^1.0.1",
+            "mime": "^2.4.7",
+            "mysql": "^2.18.1",
+            "node-xlsx": "^0.16.1",
+            "nodemon": "^2.0.7",
+            "path": "^0.12.7",
+            "querystring": "^0.2.0",
+            "redis": "^3.1.0",
+            "silly-datetime": "^0.1.2",
+            "string-random": "^0.1.3",
+            "svg-captcha": "^1.4.0"
+      },
+      "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "devDependencies": {
+            "pkg": "^5.1.0"
+      }
+}
